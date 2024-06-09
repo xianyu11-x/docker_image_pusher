@@ -2,5 +2,6 @@ alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
 maven
+registry
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
